@@ -1,4 +1,4 @@
-# Waste-Image-Classifier-with-Tranfer-Learning-VGG16
+# Waste-Image-Classifier-with-Transfer-Learning-VGG16
 ## Table of Contents
 - [Overview](#overview)
 - [Aim of the Project](#aim-of-the-project)
