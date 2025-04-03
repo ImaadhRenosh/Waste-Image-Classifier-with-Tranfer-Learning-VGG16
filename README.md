@@ -48,7 +48,7 @@ To set up and run the project locally:
 3. **Run the Jupyter Notebook**: Launch Jupyter Notebook and open `Final Proj-Classify Waste Products Using TL FT.ipynb` to train and evaluate the model.
 
 4. ## Jupyter Notebook
-    You can find the Jupyter notebook used for this project [here](https://github.com/ImaadhRenosh/Waste-Image-Classifier-with-Transfer-Learning/blob/main/Waste-Image-Classifier-with-Transfer-Learning%20FT.ipynb)
+    You can find the Jupyter notebook used for this project [here](https://github.com/ImaadhRenosh/Waste-Image-Classifier-with-Transfer-Learning-VGG16/blob/main/Final%20Proj-Classify%20Waste%20Products%20Using%20TL%20FT.ipynb)
 
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
