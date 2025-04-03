@@ -54,7 +54,8 @@ To set up and run the project locally:
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Importing Required Libraries</h2>
   <hr/>
-  <img width="716" alt="Screenshot 2025-03-15 at 05 59 51" src="https://github.com/user-attachments/assets/2d92812a-95c8-42fb-8414-e3040bcd0842" />
+  <img width="716" alt= <img width="725" alt="Screenshot 2025-04-04 at 03 26 27" src="https://github.com/user-attachments/assets/be4451ef-f2e8-45ab-a3b0-21081111d693" />
+/>
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
