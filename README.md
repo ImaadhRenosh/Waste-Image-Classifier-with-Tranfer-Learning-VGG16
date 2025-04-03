@@ -55,13 +55,14 @@ To set up and run the project locally:
   <h2>Importing Required Libraries</h2>
   <hr/>
   <img width="716" alt= <img width="725" alt="Screenshot 2025-04-04 at 03 26 27" src="https://github.com/user-attachments/assets/be4451ef-f2e8-45ab-a3b0-21081111d693" />
-/>
+
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Importing Data</h2>
   <hr/>
-  <img width="1011" alt="Screenshot 2025-03-15 at 06 01 10" src="https://github.com/user-attachments/assets/7fabec08-c102-4b0f-a662-0ba234db9228" />
+  <img width="1011" alt= <img width="903" alt="Screenshot 2025-04-04 at 03 31 23" src="https://github.com/user-attachments/assets/e3225879-21b3-4e67-8099-1329753cfbdd" />
+
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
