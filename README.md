@@ -133,21 +133,23 @@ To set up and run the project locally:
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Step 4: Plot loss curves for training and validation sets (extract_feat_model)</h2>
   <hr/>
-  <img width="705" alt="Screenshot 2025-03-15 at 06 51 15" src="https://github.com/user-attachments/assets/080ee93c-7466-44ad-987d-866f935c2560" />
-  <img width="471" alt="Screenshot 2025-03-15 at 06 58 59" src="https://github.com/user-attachments/assets/8b72f4ee-ed56-4b68-bf89-fd571a471839" />
+    <img width="699" alt="Screenshot 2025-04-04 at 03 58 05" src="https://github.com/user-attachments/assets/1e333b05-6684-4849-9cef-48849a1a739b" />
+    <img width="476" alt="Screenshot 2025-04-04 at 03 58 34" src="https://github.com/user-attachments/assets/ad728e93-3875-4114-a4a8-31760ec437cd" />
+  
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Step 5: Plot accuracy curves for training and validation sets (extract_feat_model)</h2>
   <hr/>
-  <img width="565" alt="Screenshot 2025-03-15 at 07 00 48" src="https://github.com/user-attachments/assets/2770f1ce-fab5-41df-ab10-b47b1e8d65d7" />
-  <img width="539" alt="Screenshot 2025-03-15 at 07 01 07" src="https://github.com/user-attachments/assets/cbafe59d-9350-44ce-93cc-38f9eb519322" />
+    <img width="866" alt="Screenshot 2025-04-04 at 04 00 39" src="https://github.com/user-attachments/assets/4dbfa82b-c38d-49ec-a071-31392a66af24" />
+    <img width="497" alt="Screenshot 2025-04-04 at 04 01 13" src="https://github.com/user-attachments/assets/c1850242-af1f-461e-8e99-c83307d15aab" />
+
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Step 6: Fine-Tuning model</h2>
   <hr/>
-  <img width="417" alt="Screenshot 2025-03-15 at 07 39 03" src="https://github.com/user-attachments/assets/f1e073b9-cfab-46e3-b15b-ff9a4107fd2b" />
+  
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
