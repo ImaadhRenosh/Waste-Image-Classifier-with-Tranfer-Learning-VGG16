@@ -68,57 +68,66 @@ To set up and run the project locally:
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Defining configuration options</h2>
   <hr/>
-  <img width="456" alt="Screenshot 2025-03-15 at 06 02 25" src="https://github.com/user-attachments/assets/b194e7f8-a6fd-4aa0-8e43-67daa4f12589" />
+  <img width="456" alt= <img width="455" alt="Screenshot 2025-04-04 at 03 35 02" src="https://github.com/user-attachments/assets/1b6b6a83-526a-4393-98bc-78e3e57f1219" />
+  
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>ImageDataGenerators</h2>
   <hr/>
-  <img width="1084" alt="Screenshot 2025-03-15 at 06 03 29" src="https://github.com/user-attachments/assets/c7dc33eb-82cd-45c4-bc3a-90a44d8639d5" />
-  <img width="486" alt="Screenshot 2025-03-15 at 06 04 53" src="https://github.com/user-attachments/assets/d004efb8-70d2-4e30-9135-f0896ef4ea2c" />
+    <img width="863" alt="Screenshot 2025-04-04 at 03 38 51" src="https://github.com/user-attachments/assets/1531a185-a033-424e-b46d-d0f81d99dba6" />
+    <img width="439" alt="Screenshot 2025-04-04 at 03 40 05" src="https://github.com/user-attachments/assets/e7ffe606-8976-4f64-9ecb-10e028a6ee95" />
+  
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Step 1: Creating a test_generator using the test_datagen object</h2>
   <hr/>
-  <img width="572" alt="Screenshot 2025-03-15 at 06 05 22" src="https://github.com/user-attachments/assets/99cb60dd-3ed2-466b-9e51-8a53e95b7e41" />
+  <img width="819" alt="Screenshot 2025-04-04 at 03 43 13" src="https://github.com/user-attachments/assets/706e1f62-f117-4e05-a9c4-b4debbf66ca4" />
+
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Let's look at a few augmented images</h2>
   <hr/>
-  <img width="1014" alt="Screenshot 2025-03-15 at 06 07 29" src="https://github.com/user-attachments/assets/adc582ca-b0e0-41bd-abc0-8af0d7ea9771" />
+  <img width="908" alt="Screenshot 2025-04-04 at 03 44 49" src="https://github.com/user-attachments/assets/5926b1ec-c2b9-4a51-a0bf-026951319ffc" />
+
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Pre-Trained Models / VGG-16</h2>
   <hr/>
-  <img width="1022" alt="Screenshot 2025-03-15 at 06 08 26" src="https://github.com/user-attachments/assets/269b29d9-0141-444d-a5b7-311dcc10a673" />
-  <img width="951" alt="Screenshot 2025-03-15 at 06 32 05" src="https://github.com/user-attachments/assets/a4ee31a0-ad83-446d-8459-67e6e69cbcf4" />
+  <img width="904" alt="Screenshot 2025-04-04 at 03 46 13" src="https://github.com/user-attachments/assets/958dc8cc-edf2-4ccf-ba6a-9649bc659a75" />
+  <img width="903" alt="Screenshot 2025-04-04 at 03 47 10" src="https://github.com/user-attachments/assets/304dc80e-4370-41b8-8c7e-e1b02a4508d5" />
+    
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Model Summary</h2>
   <hr/>
-  <img width="689" alt="Screenshot 2025-03-15 at 06 32 33" src="https://github.com/user-attachments/assets/ca32f259-6ae5-4dcd-9503-23ee8c9f1693" />
+  <img width="739" alt="Screenshot 2025-04-04 at 03 48 11" src="https://github.com/user-attachments/assets/f7ccf9bc-1f1c-4e88-8998-e4496ba3b7b4" />
+
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Step 2: Compile the Model</h2>
   <hr/>
-  <img width="501" alt="Screenshot 2025-03-15 at 06 33 16" src="https://github.com/user-attachments/assets/924db8fe-261e-45cc-ab2e-f258c14b8225" />
+  <img width="590" alt="Screenshot 2025-04-04 at 03 49 43" src="https://github.com/user-attachments/assets/cf562756-deb9-471f-9a04-256cf461ea95" />
+
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Callback function with Learning Rate Scheduler</h2>
   <hr/>
-  <img width="806" alt="Screenshot 2025-03-15 at 06 35 07" src="https://github.com/user-attachments/assets/f6f99d4c-1d15-41e9-befb-d453aec28d5f" />
+  <img width="745" alt="Screenshot 2025-04-04 at 03 50 36" src="https://github.com/user-attachments/assets/2d6b41c7-9a7e-4c99-975b-d557d349b788" />
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Step 3: Fit and train the model</h2>
   <hr/>
-  <img width="1028" alt="Screenshot 2025-03-15 at 06 49 42" src="https://github.com/user-attachments/assets/b2fd1329-3ff3-485c-ac2f-7f293d3484a7" />
+  <img width="681" alt="Screenshot 2025-04-04 at 03 52 50" src="https://github.com/user-attachments/assets/02a925cd-1ab6-4e38-baad-e0554b6be370" />
+  <img width="912" alt="Screenshot 2025-04-04 at 03 53 55" src="https://github.com/user-attachments/assets/de296e94-7edf-42cd-a05e-daa7cba19874" />
+    
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
