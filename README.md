@@ -161,7 +161,6 @@ To set up and run the project locally:
   <img width="747" alt="Screenshot 2025-04-04 at 06 04 09" src="https://github.com/user-attachments/assets/aa011441-2500-4464-ba0a-51c794224aa5" />
   <img width="923" alt="Screenshot 2025-04-04 at 06 04 47" src="https://github.com/user-attachments/assets/156c1c6a-4cb6-4e34-9f02-af5b0e65cf6c" />
 
-
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
@@ -178,7 +177,6 @@ To set up and run the project locally:
   <img width="864" alt="Screenshot 2025-04-04 at 06 07 39" src="https://github.com/user-attachments/assets/2e339d06-f696-4d0b-b788-3da121fa5131" />
   <img width="483" alt="Screenshot 2025-04-04 at 06 08 03" src="https://github.com/user-attachments/assets/7b734ef8-fd54-4a84-95d9-fc0188e26b0b" />
 
-
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
@@ -190,26 +188,23 @@ To set up and run the project locally:
   <img width="451" alt="Screenshot 2025-04-04 at 06 09 46" src="https://github.com/user-attachments/assets/c6cdec18-9981-4a20-b42c-de73b51a981d" />
   <img width="897" alt="Screenshot 2025-04-04 at 06 10 32" src="https://github.com/user-attachments/assets/352a58af-1efe-4799-8c69-fefab40997a6" />
 
-  <img width="1005" alt="Screenshot 2025-03-15 at 07 55 58" src="https://github.com/user-attachments/assets/bca84ab8-264b-4b34-82fc-20c6b84411b8" />
-  <img width="580" alt="Screenshot 2025-03-15 at 07 56 19" src="https://github.com/user-attachments/assets/65d43694-01d6-4680-b044-28e862d7b219" />
-  <img width="397" alt="Screenshot 2025-03-15 at 07 56 41" src="https://github.com/user-attachments/assets/dc771448-ac2c-4248-b634-da3b82b69cb8" />
-
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Step 10: Plot a test image using Extract Features Model (index_to_plot = 1)</h2>
   <hr/>
-    
-  
+
+  <img width="898" alt="Screenshot 2025-04-04 at 06 17 31" src="https://github.com/user-attachments/assets/de800247-a6fe-49bf-9348-7d2eb627ffa1" />
+  <img width="473" alt="Screenshot 2025-04-04 at 06 17 46" src="https://github.com/user-attachments/assets/89e4c09f-a775-4eb6-ba3f-d1678bcda83b" />
+
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Step 11: Plot a test image using Fine-Tuned Model (index_to_plot = 1)</h2>
   <hr/>
-<img width="897" alt="Screenshot 2025-04-04 at 06 12 49" src="https://github.com/user-attachments/assets/17c945a6-c9ae-41ba-9020-5bddae1c1012" />
+  <img width="894" alt="Screenshot 2025-04-04 at 06 18 56" src="https://github.com/user-attachments/assets/9e3c6b04-85c6-4e1f-901a-97c1b13d5b6c" />
+  <img width="477" alt="Screenshot 2025-04-04 at 06 19 16" src="https://github.com/user-attachments/assets/bf15e837-b6cc-4f5a-8559-9b41f054f7bd" />
 
-  
-  
 </div>
 
 
