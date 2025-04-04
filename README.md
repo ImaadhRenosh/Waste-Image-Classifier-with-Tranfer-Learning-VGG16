@@ -186,13 +186,7 @@ To set up and run the project locally:
   <hr/>
   <img width="899" alt="Screenshot 2025-04-04 at 06 08 51" src="https://github.com/user-attachments/assets/a63f61de-2184-4772-82e0-5b88ad1ba407" />
   <img width="896" alt="Screenshot 2025-04-04 at 06 09 12" src="https://github.com/user-attachments/assets/6c13e8e2-b16b-47d0-8e27-1b59b1d2ccd2" />
-
-</div>
-
-<div style="margin-top: 30px; margin-bottom: 30px;">
-  <h2>Step 10: Plot a test image using Extract Features Model (index_to_plot = 1)</h2>
-  <hr/>
-    
+  
   <img width="451" alt="Screenshot 2025-04-04 at 06 09 46" src="https://github.com/user-attachments/assets/c6cdec18-9981-4a20-b42c-de73b51a981d" />
   <img width="897" alt="Screenshot 2025-04-04 at 06 10 32" src="https://github.com/user-attachments/assets/352a58af-1efe-4799-8c69-fefab40997a6" />
 
@@ -200,6 +194,13 @@ To set up and run the project locally:
   <img width="580" alt="Screenshot 2025-03-15 at 07 56 19" src="https://github.com/user-attachments/assets/65d43694-01d6-4680-b044-28e862d7b219" />
   <img width="397" alt="Screenshot 2025-03-15 at 07 56 41" src="https://github.com/user-attachments/assets/dc771448-ac2c-4248-b634-da3b82b69cb8" />
 
+</div>
+
+<div style="margin-top: 30px; margin-bottom: 30px;">
+  <h2>Step 10: Plot a test image using Extract Features Model (index_to_plot = 1)</h2>
+  <hr/>
+    
+  
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
