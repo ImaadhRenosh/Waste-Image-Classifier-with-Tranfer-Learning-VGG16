@@ -149,50 +149,66 @@ To set up and run the project locally:
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Step 6: Fine-Tuning model</h2>
   <hr/>
-  
+  <img width="743" alt="Screenshot 2025-04-04 at 06 02 20" src="https://github.com/user-attachments/assets/7ac6497e-1bf0-47ec-9ba3-78303b637267" />
+  <img width="578" alt="Screenshot 2025-04-04 at 06 03 05" src="https://github.com/user-attachments/assets/bb60cad8-0fad-43ea-82af-5f696836b3a6" />
+
 </div>
+
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Similar to what was done before, I will create a new model on top, and add a Dropout layer for regularization</h2>
   <hr/>
-  <img width="735" alt="Screenshot 2025-03-15 at 07 40 14" src="https://github.com/user-attachments/assets/ed1fdea9-229f-46e9-a7c9-20b622c14f00" />
-  <img width="1015" alt="Screenshot 2025-03-15 at 07 40 49" src="https://github.com/user-attachments/assets/a6e4f0e0-f226-4fc5-88fc-f79b1383dd12" />
+  <img width="747" alt="Screenshot 2025-04-04 at 06 04 09" src="https://github.com/user-attachments/assets/aa011441-2500-4464-ba0a-51c794224aa5" />
+  <img width="923" alt="Screenshot 2025-04-04 at 06 04 47" src="https://github.com/user-attachments/assets/156c1c6a-4cb6-4e34-9f02-af5b0e65cf6c" />
+
+
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Step 7: Plot loss curves for training and validation sets (fine-tune model)</h2>
   <hr/>
-  <img width="571" alt="Screenshot 2025-03-15 at 07 41 52" src="https://github.com/user-attachments/assets/5728a2ea-8694-44cc-aad3-fd3c9d0cb4a6" />
-  <img width="506" alt="Screenshot 2025-03-15 at 07 42 19" src="https://github.com/user-attachments/assets/53cd076a-d398-46a4-ae65-40cfb739bdfd" />
+  <img width="866" alt="Screenshot 2025-04-04 at 06 06 06" src="https://github.com/user-attachments/assets/5b0b9c7c-d9e0-49c8-bbe0-7c6f126fd364" />
+  <img width="482" alt="Screenshot 2025-04-04 at 06 06 49" src="https://github.com/user-attachments/assets/897ad787-cdd0-423a-857b-ca1f1a9c3cbc" />
+
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Step 8: Plot accuracy curves for training and validation sets (fine tune model)</h2>
   <hr/>
-  <img width="666" alt="Screenshot 2025-03-15 at 07 44 15" src="https://github.com/user-attachments/assets/94e9abff-7316-4271-96b7-a0c75407e874" />
-  <img width="541" alt="Screenshot 2025-03-15 at 07 44 32" src="https://github.com/user-attachments/assets/5e426a7c-4eef-4a40-9b71-b43a27258019" />
+  <img width="864" alt="Screenshot 2025-04-04 at 06 07 39" src="https://github.com/user-attachments/assets/2e339d06-f696-4d0b-b788-3da121fa5131" />
+  <img width="483" alt="Screenshot 2025-04-04 at 06 08 03" src="https://github.com/user-attachments/assets/7b734ef8-fd54-4a84-95d9-fc0188e26b0b" />
+
+
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Step 9: Evaluate both models on test data</h2>
   <hr/>
-  <img width="1044" alt="Screenshot 2025-03-15 at 07 50 50" src="https://github.com/user-attachments/assets/a05a1720-63d7-4538-84a5-108e61f95a09" />
-  <img width="716" alt="Screenshot 2025-03-15 at 07 51 18" src="https://github.com/user-attachments/assets/dd026f3a-3137-4e21-9cf1-e28130ffa642" />
+  <img width="899" alt="Screenshot 2025-04-04 at 06 08 51" src="https://github.com/user-attachments/assets/a63f61de-2184-4772-82e0-5b88ad1ba407" />
+  <img width="896" alt="Screenshot 2025-04-04 at 06 09 12" src="https://github.com/user-attachments/assets/6c13e8e2-b16b-47d0-8e27-1b59b1d2ccd2" />
+
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Step 10: Plot a test image using Extract Features Model (index_to_plot = 1)</h2>
   <hr/>
-  <img width="1006" alt="Screenshot 2025-03-15 at 07 54 21" src="https://github.com/user-attachments/assets/af8f4772-7737-42c5-9837-9d3c4101b260" />
-  <img width="484" alt="Screenshot 2025-03-15 at 07 54 46" src="https://github.com/user-attachments/assets/599779a2-13bf-4677-b476-2f55aeb4bc1b" />
+    
+  <img width="451" alt="Screenshot 2025-04-04 at 06 09 46" src="https://github.com/user-attachments/assets/c6cdec18-9981-4a20-b42c-de73b51a981d" />
+  <img width="897" alt="Screenshot 2025-04-04 at 06 10 32" src="https://github.com/user-attachments/assets/352a58af-1efe-4799-8c69-fefab40997a6" />
+
+  <img width="1005" alt="Screenshot 2025-03-15 at 07 55 58" src="https://github.com/user-attachments/assets/bca84ab8-264b-4b34-82fc-20c6b84411b8" />
+  <img width="580" alt="Screenshot 2025-03-15 at 07 56 19" src="https://github.com/user-attachments/assets/65d43694-01d6-4680-b044-28e862d7b219" />
+  <img width="397" alt="Screenshot 2025-03-15 at 07 56 41" src="https://github.com/user-attachments/assets/dc771448-ac2c-4248-b634-da3b82b69cb8" />
+
 </div>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
   <h2>Step 11: Plot a test image using Fine-Tuned Model (index_to_plot = 1)</h2>
   <hr/>
-  <img width="1005" alt="Screenshot 2025-03-15 at 07 55 58" src="https://github.com/user-attachments/assets/bca84ab8-264b-4b34-82fc-20c6b84411b8" />
-  <img width="580" alt="Screenshot 2025-03-15 at 07 56 19" src="https://github.com/user-attachments/assets/65d43694-01d6-4680-b044-28e862d7b219" />
-  <img width="397" alt="Screenshot 2025-03-15 at 07 56 41" src="https://github.com/user-attachments/assets/dc771448-ac2c-4248-b634-da3b82b69cb8" />
+<img width="897" alt="Screenshot 2025-04-04 at 06 12 49" src="https://github.com/user-attachments/assets/17c945a6-c9ae-41ba-9020-5bddae1c1012" />
+
+  
+  
 </div>
 
 
