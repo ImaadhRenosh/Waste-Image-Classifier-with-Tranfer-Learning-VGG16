@@ -20,7 +20,7 @@ The aim of this project is to develop an automated waste classification model th
 
 ## Technologies Used
 - **Programming Language:** Python
-- **Libraries:** TensorFlow, Keras, OpenCV
+- **Libraries:** TensorFlow, Keras, OpenCV, scikit-learn, numpy, Matplotlib
 - **Tools:** Jupyter Notebook, Git, VS Code
 
 ## Prerequisites
